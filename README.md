@@ -45,9 +45,8 @@ This project is a simple temperature monitoring system using an Arduino UNO, a T
 3. Connect components as shown above
 4. Copy the Arduino code into Tinkercad Code Editor
 5. Click **Start Simulation** and adjust the TMP36 temperature slider
+   
 
-## 📸 Screenshot
-`/Images` 
 
 ## 📦 Folder Structure
 ```
